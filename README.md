@@ -20,11 +20,14 @@ I contribute to open source projects I use and believe in:
 
 ### 🔗 Blockchain Projects
 
-- **[forge](https://github.com/danieliyahu1/forge):**
-  Create your own tokens on the Kaspa network in minutes. Three fields, one button, done. Every token is a real on-chain covenant-bound asset. Self-custody, no code required. [Try it live](https://forge-jbu3.onrender.com/)
-
 - **[kticket](https://github.com/danieliyahu1/kticket):**
   On-chain event ticketing on Kaspa. Tickets are covenant-bound assets — organizers deploy them, attendees buy and hold them. Trustless, transparent, and fully on-chain.
+
+- **[daftari](https://github.com/danieliyahu1/daftari):**
+  A chama (rotating savings group) app on the Kaspa testnet. Every group is its own on-chain wallet — members pool money by paying on-chain, and the group's history is its ledger.
+
+- **[forge](https://github.com/danieliyahu1/forge):**
+  Create your own tokens on the Kaspa network in minutes. Three fields, one button, done. Every token is a real on-chain covenant-bound asset. Self-custody, no code required. [Try it live](https://forge-jbu3.onrender.com/)
 
 - **[kaspa-statement](https://github.com/danieliyahu1/kaspa-statement):**
   Generate printable receipts for Kaspa transactions. Simple and useful.
