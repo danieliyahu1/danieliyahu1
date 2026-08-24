@@ -18,6 +18,8 @@ I contribute to projects in the Kaspa and AI tooling ecosystems:
 
 - **[opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)** — Control OpenCode from your phone via Telegram. Run and monitor AI coding tasks remotely.
 
+- **[oci-k3s-starter](https://github.com/adirbd/oci-k3s-starter)** — A free Oracle Cloud ARM box running k3s, Argo CD, Grafana and Homepage. Forked it to run my own infra, and contribute docs and fixes upstream — from secret rotation guidance to a stale-kubeconfig fix.
+
 ---
 
 ### 🔗 Blockchain Projects
