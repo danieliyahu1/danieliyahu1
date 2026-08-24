@@ -8,17 +8,13 @@ I build tools at the intersection of blockchain and AI. I actively contribute to
 
 ### 🌐 Open Source Contributions
 
-I contribute to projects in the Kaspa and AI tooling ecosystems:
+I contribute to open source projects I use and believe in:
 
-- **[kaspa-rest-server](https://github.com/kaspa-ng/kaspa-rest-server)** — REST API server for the Kaspa blockchain. Contributing to the backbone that powers kaspa.org's public API.
-
-- **[opencode-pty](https://github.com/shekohex/opencode-pty)** — Interactive terminal management plugin for OpenCode. Helps AI agents run background processes, send input, and read output on demand.
-
-- **[opencode-notifier](https://github.com/mohak34/opencode-notifier)** — Desktop notifications for OpenCode. Know when your AI tasks finish or need attention.
+- **[oci-k3s-starter](https://github.com/adirbd/oci-k3s-starter)** — A free Oracle Cloud ARM box running k3s, Argo CD, Grafana and Homepage. Forked it to run my own infra, and contribute docs and fixes upstream — from secret rotation guidance to a stale-kubeconfig fix.
 
 - **[opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)** — Control OpenCode from your phone via Telegram. Run and monitor AI coding tasks remotely.
 
-- **[oci-k3s-starter](https://github.com/adirbd/oci-k3s-starter)** — A free Oracle Cloud ARM box running k3s, Argo CD, Grafana and Homepage. Forked it to run my own infra, and contribute docs and fixes upstream — from secret rotation guidance to a stale-kubeconfig fix.
+- **[opencode-notifier](https://github.com/mohak34/opencode-notifier)** — Desktop notifications for OpenCode. Know when your AI tasks finish or need attention.
 
 ---
 
