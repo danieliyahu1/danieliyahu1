@@ -39,6 +39,9 @@ I contribute to open source projects I use and believe in:
 - **[kaspa-simple-mcp](https://github.com/danieliyahu1/kaspa-simple-mcp):**
   A read-only MCP server that lets AI assistants query the Kaspa blockchain directly. Check balances, look up transactions, explore blocks — no node required.
 
+- **[connect](https://github.com/danieliyahu1/connect):**
+  A microservices platform that connects travelers with locals. Spring Boot services behind an API Gateway, with AI-powered matching that suggests connections based on location, interests, and availability.
+
 ---
 
 ## 💡 What I Care About
