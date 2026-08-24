@@ -33,14 +33,14 @@ I contribute to open source projects I use and believe in:
 
 ### 🤖 AI Projects
 
+- **[connect](https://github.com/danieliyahu1/connect):**
+  A microservices platform that connects travelers with locals. Spring Boot services behind an API Gateway, with AI-powered matching that suggests connections based on location, interests, and availability.
+
 - **[keren-ai](https://github.com/danieliyahu1/keren-ai):**
   AI-powered chatbot for the Keren-Or scholarship. Docker-first microservices with React frontend, Spring Boot backend, and Groq/OpenAI integration behind an API Gateway.
 
 - **[kaspa-simple-mcp](https://github.com/danieliyahu1/kaspa-simple-mcp):**
   A read-only MCP server that lets AI assistants query the Kaspa blockchain directly. Check balances, look up transactions, explore blocks — no node required.
-
-- **[connect](https://github.com/danieliyahu1/connect):**
-  A microservices platform that connects travelers with locals. Spring Boot services behind an API Gateway, with AI-powered matching that suggests connections based on location, interests, and availability.
 
 ---
 
