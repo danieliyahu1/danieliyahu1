@@ -50,6 +50,4 @@ I contribute to open source projects I use and believe in:
 - **Making blockchain data accessible** — AI should be able to understand and query any chain
 - **Building real tools** — not just demos, but things people actually use
 
----
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danieliyahu1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
