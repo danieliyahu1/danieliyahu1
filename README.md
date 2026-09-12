@@ -47,7 +47,7 @@ I contribute to open source projects I use and believe in:
 ## 💡 What I Care About
 
 - **Open source first** — contribute to what you use, build what's missing
-- **Making blockchain data accessible** — AI should be able to understand and query any chain
+- **Designing trustless systems** — build products people can trust without trusting a middleman
 - **Building real tools** — not just demos, but things people actually use
 
 
