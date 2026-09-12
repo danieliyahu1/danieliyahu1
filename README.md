@@ -20,14 +20,14 @@ I contribute to open source projects I use and believe in:
 
 ### 🔗 Blockchain Projects
 
+- **[onlykas](https://github.com/danieliyahu1/onlykas):**
+  A paid-media app on the Kaspa testnet. Creators authenticate with Kasware, upload private media directly to R2, and publish immutable Turso-backed posts.
+
 - **[kticket](https://github.com/danieliyahu1/kticket):**
   On-chain event ticketing on Kaspa. Tickets are covenant-bound assets — organizers deploy them, attendees buy and hold them. Trustless, transparent, and fully on-chain.
 
-- **[daftari](https://github.com/danieliyahu1/daftari):**
-  A chama (rotating savings group) app on the Kaspa testnet. Every group is its own on-chain wallet — members pool money by paying on-chain, and the group's history is its ledger.
-
-- **[forge](https://github.com/danieliyahu1/forge):**
-  Create your own tokens on the Kaspa network in minutes. Three fields, one button, done. Every token is a real on-chain covenant-bound asset. Self-custody, no code required. [Try it live](https://forge-jbu3.onrender.com/)
+- **[kaspa-even-odd](https://github.com/danieliyahu1/kaspa-even-odd):**
+  A non-custodial Even/Odd game on Kaspa testnet-10. Invite-only games with exact matching stakes, a doubled-pot covenant, and provably fair outcomes.
 
 ---
 
@@ -39,8 +39,8 @@ I contribute to open source projects I use and believe in:
 - **[keren-ai](https://github.com/danieliyahu1/keren-ai):**
   AI-powered chatbot for the Keren-Or scholarship. Docker-first microservices with React frontend, Spring Boot backend, and Groq/OpenAI integration behind an API Gateway.
 
-- **[kaspa-simple-mcp](https://github.com/danieliyahu1/kaspa-simple-mcp):**
-  A read-only MCP server that lets AI assistants query the Kaspa blockchain directly. Check balances, look up transactions, explore blocks — no node required.
+- **[base55](https://github.com/danieliyahu1/base55):**
+  A Spring Boot service that generates agent workflows and filters MCP tools, powered by Groq and OpenRouter models.
 
 ---
 
