@@ -26,8 +26,8 @@ I contribute to open source projects I use and believe in:
 - **[kticket](https://github.com/danieliyahu1/kticket):**
   On-chain event ticketing on Kaspa. Tickets are covenant-bound assets — organizers deploy them, attendees buy and hold them. Trustless, transparent, and fully on-chain.
 
-- **[kaspa-even-odd](https://github.com/danieliyahu1/kaspa-even-odd):**
-  A non-custodial Even/Odd game on Kaspa testnet-10. Invite-only games with exact matching stakes, a doubled-pot covenant, and provably fair outcomes.
+- **[kas-odds](https://github.com/danieliyahu1/kas-odds):**
+  A non-custodial KasOdds game on Kaspa testnet-10. Invite-only games with exact matching stakes, a doubled-pot covenant, and provably fair outcomes.
 
 ---
 
