@@ -20,7 +20,7 @@ I contribute to open source projects I use and believe in:
 
 ### 🔗 Blockchain Projects
 
-- **[onlykas](https://github.com/danieliyahu1/onlykas):**
+- **[kaskama](https://github.com/danieliyahu1/kaskama):**
   A paid-media app on the Kaspa testnet. Creators authenticate with Kasware, upload private media directly to R2, and publish immutable Turso-backed posts.
 
 - **[kticket](https://github.com/danieliyahu1/kticket):**
