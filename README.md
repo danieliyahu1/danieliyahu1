@@ -21,7 +21,7 @@ I contribute to open source projects I use and believe in:
 ### 🔗 Blockchain Projects
 
 - **[kaskama](https://github.com/danieliyahu1/kaskama):**
-  A paid-media app on the Kaspa testnet. Creators authenticate with Kasware, upload private media directly to R2, and publish immutable Turso-backed posts.
+  A paid-media app on Kaspa. Creators authenticate with Kasware, upload private media directly to R2, and publish immutable Turso-backed posts.
 
 - **[kticket](https://github.com/danieliyahu1/kticket):**
   On-chain event ticketing on Kaspa. Tickets are covenant-bound assets — organizers deploy them, attendees buy and hold them. Trustless, transparent, and fully on-chain.
