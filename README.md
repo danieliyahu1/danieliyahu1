@@ -26,8 +26,8 @@ I contribute to open source projects I use and believe in:
 - **[kticket](https://github.com/danieliyahu1/kticket):**
   On-chain event ticketing on Kaspa. Tickets are covenant-bound assets — organizers deploy them, attendees buy and hold them. Trustless, transparent, and fully on-chain.
 
-- **[kas-odds](https://github.com/danieliyahu1/kas-odds):**
-  A non-custodial KasOdds game on Kaspa. Invite-only games with exact matching stakes, a doubled-pot covenant, and provably fair outcomes.
+- **[daftari](https://github.com/danieliyahu1/daftari):**
+  On-chain savings groups on Kaspa. A chama is a real Kaspa wallet — members pay in on-chain, and the chain itself is the ledger. No custodian, no password.
 
 ---
 
