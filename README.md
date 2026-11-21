@@ -6,6 +6,19 @@ I build tools at the intersection of blockchain and AI. I actively contribute to
 
 ---
 
+### 🤖 AI Projects
+
+- **[connect](https://github.com/danieliyahu1/connect):**
+  A microservices platform that connects travelers with locals. Spring Boot services behind an API Gateway, with AI-powered matching that suggests connections based on location, interests, and availability.
+
+- **[keren-ai](https://github.com/danieliyahu1/keren-ai):**
+  AI-powered chatbot for the Keren-Or scholarship. Docker-first microservices with React frontend, Spring Boot backend, and Groq/OpenAI integration behind an API Gateway.
+
+- **[keren-hr](https://github.com/danieliyahu1/keren-hr):**
+  A Spring Boot app with a built-in web UI for authenticated AI chat via OpenCode. JWT login, per-user workspace provisioning, chat sessions, permission approvals, and skill creation from free text.
+
+---
+
 ### 🌐 Open Source Contributions
 
 I contribute to open source projects I use and believe in:
@@ -28,19 +41,6 @@ I contribute to open source projects I use and believe in:
 
 - **[daftari](https://github.com/danieliyahu1/daftari):**
   On-chain savings groups on Kaspa. A chama is a real Kaspa wallet — members pay in on-chain, and the chain itself is the ledger. No custodian, no password.
-
----
-
-### 🤖 AI Projects
-
-- **[connect](https://github.com/danieliyahu1/connect):**
-  A microservices platform that connects travelers with locals. Spring Boot services behind an API Gateway, with AI-powered matching that suggests connections based on location, interests, and availability.
-
-- **[keren-ai](https://github.com/danieliyahu1/keren-ai):**
-  AI-powered chatbot for the Keren-Or scholarship. Docker-first microservices with React frontend, Spring Boot backend, and Groq/OpenAI integration behind an API Gateway.
-
-- **[base55](https://github.com/danieliyahu1/base55):**
-  A Spring Boot service that generates agent workflows and filters MCP tools, powered by Groq and OpenRouter models.
 
 ---
 
