@@ -8,8 +8,8 @@ I build tools at the intersection of blockchain and AI. I actively contribute to
 
 ### 🤖 AI Projects
 
-- **[keren-hr](https://github.com/danieliyahu1/keren-hr):**
-  An AI recruiting agent. A Spring Boot chat app drives an OpenCode agent in Docker that audits LinkedIn profiles through Playwright and returns HR relevance reports — verdicts, verified skills, and red flags.
+- **[keren-job](https://github.com/danieliyahu1/keren-job):**
+  Describe a job in plain language and an agent finds it. A Spring Boot UI and a headless OpenCode agent share one pod — the app never scrapes a job board, it asks the agent, which calls HireMe's public API. Live at [kerenjob.danieliyahu.com](https://kerenjob.danieliyahu.com).
 
 - **[connect](https://github.com/danieliyahu1/connect):**
   A microservices platform that connects travelers with locals. Spring Boot services behind an API Gateway, with AI-powered matching that suggests connections based on location, interests, and availability.
